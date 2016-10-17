@@ -1,6 +1,6 @@
 # Expressions
 PrimaryExpression :  
-- [create an anchor](#Confusions)
+- [create an anchor](#confusions)
 - **this**  
 - `Identifier`  
 - Literal  
